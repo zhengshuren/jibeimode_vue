@@ -1,0 +1,71 @@
+/*全局样式定义*/
+/deep/ .el-button--primary {
+  color: #FFF;
+  background-color: #227ba6;
+  border-color: #227ba6;
+}
+/deep/ .el-table, .el-table__expanded-cell {
+  background-color: none;
+}
+/*背景色*/
+/deep/ .el-table{
+  background-color: inherit;
+  padding: 0px;
+}
+//.el-table--border td{
+//  border-left: 1px solid #fff;
+//}
+/*单行颜色*/
+/deep/ .el-table tr {
+  background-color: inherit;
+  color:#fff;
+}
+/*点击变色*/
+/deep/ .el-table--enable-row-hover .el-table__body tr:hover>td {
+  background-color: #E3EDF6;
+  color: #000000;
+}
+/*标题*/
+/deep/ .el-table__header-wrapper thead>tr {
+  background-color: inherit;
+  color: #383838
+}
+/*标题大范围*/
+/deep/ .el-table th {
+  background-color: inherit;
+  color: #fff;
+}
+
+/*table最外层底边框*/
+/deep/ .el-table::after,
+/deep/ .el-table::before {
+  content: '';
+  position: absolute;
+  background-color: inherit;
+  z-index: 1
+}
+/*table最外层右边框*/
+.el-table--border td,
+.el-table--border th {
+  //border: 1px solid #fff;
+}
+.el-table__body-wrapper {
+  border-bottom: 1px solid #fff;
+  border-right: 1px solid #fff;
+}
+/*隔断换颜色*/
+.el-table .info-row {
+  background-color: inherit;
+}
+
+/deep/ .el-table .positive-row {
+  background-color: inherit;
+}
+/deep/ .el-pagination__total  {
+  color: #fff;
+}
+/deep/ .el-pagination__jump  {
+  color: #fff;
+}
+
+

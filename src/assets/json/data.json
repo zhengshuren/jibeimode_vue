@@ -1,0 +1,44 @@
+{
+  "infoData": [
+    {
+      "id": "1",
+      "area": "崇礼",
+      "assuranceLevel": "特级",
+      "clientName": "云顶大酒店",
+      "accessAddress": "http://ip:port/projectUrl/index.html",
+      "creatTime": "2020-11-09"
+    },
+    {
+      "id": "2",
+      "area": "崇礼",
+      "assuranceLevel": "特级",
+      "clientName": "云顶酒店电供暖",
+      "accessAddress": "http://ip:port/projectUrl/index.html",
+      "creatTime": "2020-11-08"
+    },
+    {
+      "id": "3",
+      "area": "崇礼",
+      "assuranceLevel": "特级",
+      "clientName": "奥运村南区组团电采暖",
+      "accessAddress": "http://ip:port/projectUrl/index.html",
+      "creatTime": "2020-11-07"
+    },
+    {
+      "id": "4",
+      "area": "崇礼",
+      "assuranceLevel": "一级",
+      "clientName": "东奥两项比赛照明箱变",
+      "accessAddress": "http://ip:port/projectUrl/index.html",
+      "creatTime": "2020-11-06"
+    },
+    {
+      "id": "5",
+      "area": "崇礼",
+      "assuranceLevel": "二级",
+      "clientName": "山地转播中心电供暖",
+      "accessAddress": "http://ip:port/projectUrl/index.html",
+      "creatTime": "2020-11-05"
+    }
+  ]
+}
